@@ -1,10 +1,10 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Zacky Jamel] 👋
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
-I'm a [Your Role, e.g., Software Engineer, Data Scientist, etc.] passionate about [Your Interests, e.g., building scalable systems, machine learning, etc.]. I love contributing to open source and building tools that solve real-world problems.
+I'm a [Programmer, e.g., Software Engineer (Mobile, Web, Ai, and Video Game Dev)] passionate about [Problem solving, e.g., building scalable systems, machine learning, etc.]. I love contributing to open source and building tools that solve real-world problems.
 
 ---
 
@@ -14,24 +14,22 @@ I'm a [Your Role, e.g., Software Engineer, Data Scientist, etc.] passionate abou
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Project Name 1](https://github.com/yourusername/project1)
-Short description of the project. What problem does it solve? What technologies did you use?
+### [Goplay](https://github.com/yourusername/project1)
+Larget sport app in somali community
 
-### [Project Name 2](https://github.com/yourusername/project2)
-Short description of the project. What problem does it solve? What technologies did you use?
-
+### [Albedo PC](https://github.com/yourusername/project2)
+3D Video game for (Mac, Linux, Windows)
+getstart: https://apkzacky.itch.io/albedo-pc
 ---
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Zacky Jamel](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
@@ -45,11 +43,11 @@ Short description of the project. What problem does it solve? What technologies 
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 🌐 [Portfolio](https://yourportfolio.com)
-- ✉️ Email: youremail@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/zacky-jamel-17a31b239/)
+- 🐦 [Twitter](https://x.com/zackyjamel)
+- 🌐 [Portfolio](https://apkzacky.github.io/)
+- ✉️ Email: zackyjamel@gmail.com
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Zacky Jamel](https://github.com/yourusername)
