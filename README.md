@@ -63,6 +63,29 @@ Survive and kill the armed guardians of the warrior, guarding the albedo, using 
 
 ---
 
+
+
+
+## UpToDown Products
+
+Here are some of the apps and games I’ve developed and published on **UpToDown**:
+
+### **1. English Somali Dictionary Mobile: (https://english-somali-dictionary.uptodown.com/android)**
+- **Description**: Unlimited somali to english dictionary.
+- **Technologies**: [React Native, Google DB].
+- **Download**: [https://english-somali-dictionary.uptodown.com/android].
+
+### **2. English Somali Dictionary PC: (https://www.uptodown.com/developer/apkzacky-studio)**
+- **Description**: Unlimited somali to english.
+- **Technologies**: [Electron.js, Google DB].
+- **Download**: [https://english-somali-dictionary-pc.uptodown.com/windows].
+
+### **3. OXO - Learn to code: (https://apkpure.com/oxo-learn-to-code/ApkZacky.github.io.OXO)**
+- **Description**: OXO - LEARN TO CODE - LEARN, BUILD & RUN WEBSITE IN YOUR PHONE ALL FOR FREE & OFFLINE.
+- **Technologies**: [React Native].
+- **Download**: [Link to the app/game on UpToDown].
+
+
 ## 📈 GitHub Stats
 
 ![Zacky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apkzacky&show_icons=true&theme=radical)
