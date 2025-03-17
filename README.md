@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacky-jamel-17a31b239/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://apkzacky.github.io/)
 
-I'm a Programmer, e.g., Software Engineer (Mobile, Web, Ai, and Video Game Dev) passionate about [Problem solving, e.g., building scalable systems, machine learning, etc.]. I love contributing to open source and building tools that solve real-world problems.
+I'm a Programmer, Software Engineer (Mobile, Web, Ai, and Video Game Dev) passionate about building scalable systems, machine learning, etc.. I love contributing to open source and building tools that solve real-world problems.
 
 ---
 
