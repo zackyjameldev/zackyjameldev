@@ -33,10 +33,10 @@ I'm a Programmer, e.g., Software Engineer (Mobile, Web, Ai, and Video Game Dev) 
 
 ## 🚀 Featured Projects
 
-### Goplay(https://github.com/yourusername/project1)
+### Goplay
 * Larget sport app in somali community
 
-### Albedo PC (https://github.com/yourusername/project2)
+### Albedo PC
 * 3D Video game for (Mac, Linux, Windows)
 * getstart: https://apkzacky.itch.io/albedo-pc
 ---
