@@ -17,16 +17,6 @@ I'm a Programmer, e.g., Software Engineer (Mobile, Web, Ai, and Video Game Dev) 
 
 ---
 
-## 🚀 Featured Projects
-
-### Goplay(https://github.com/yourusername/project1)
-Larget sport app in somali community
-
-### Albedo PC (https://github.com/yourusername/project2)
-3D Video game for (Mac, Linux, Windows)
-getstart: https://apkzacky.itch.io/albedo-pc
----
-
 ## 📈 GitHub Stats
 
 !Zacky Jamel (https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
@@ -39,6 +29,16 @@ getstart: https://apkzacky.itch.io/albedo-pc
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)
 
+---
+
+## 🚀 Featured Projects
+
+### Goplay(https://github.com/yourusername/project1)
+* Larget sport app in somali community
+
+### Albedo PC (https://github.com/yourusername/project2)
+* 3D Video game for (Mac, Linux, Windows)
+* getstart: https://apkzacky.itch.io/albedo-pc
 ---
 
 ## 📫 Let's Connect!
