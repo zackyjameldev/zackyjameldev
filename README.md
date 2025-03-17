@@ -59,9 +59,9 @@ Survive and kill the armed guardians of the warrior, guarding the albedo, using 
 ### **AI-Powered Chatbot**
 - **Description**: Geesi AI, Designed to make studying easier and more interactive.
 - **Technologies**: Next.js, Gemini, React Native
-- **Live Demo**: [Chatbot Demo](https://ai.google.dev/competition/projects/geesi-ai) *(replace with actual link)*
+- **Live Demo**: [Chatbot Demo](https://ai.google.dev/competition/projects/geesi-a)
 
-![Chatbot Screenshot](https://youtu.be/LP5Ps2O5n_0) <!-- Replace with actual image -->
+![Chatbot Screenshot](https://ai.google.dev/competition/projects/geesi-ai) <!-- Replace with actual image -->
 
 ---
 
