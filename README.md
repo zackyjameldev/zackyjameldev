@@ -44,25 +44,24 @@ I'm a **Programmer** and **Software Engineer** specializing in **Mobile, Web, AI
 ## 🚀 Featured Projects
 
 ### **Goplay**
-- **Description**: The largest sports app in the Somali community, designed to connect sports enthusiasts and provide real-time updates.
-- **Technologies**: React Native, Firebase, Node.js
-- **Live Demo**: [Goplay](https://goplay.com) *(replace with actual link)*
+- **Description**: The largest sports app in the Somali community.
 
-![Goplay Screenshot](https://via.placeholder.com/800x400) <!-- Replace with actual image -->
 
 ### **Albedo PC**
-- **Description**: A 3D video game available for Mac, Linux, and Windows. Immerse yourself in a captivating world of adventure and strategy.
-- **Technologies**: Unity, C#, Blender
+- **Description**: A 3D video game available for Mac, Linux, and Windows. ALBEDO is a smart warrior who is carrying out his mission to achieve the white power.
+
+Survive and kill the armed guardians of the warrior, guarding the albedo, using your unique weapons.
+- **Technologies**: Godot4, GDscript, Blender
 - **Get Started**: [Download on itch.io](https://apkzacky.itch.io/albedo-pc)
 
-![Albedo PC Screenshot](https://via.placeholder.com/800x400) <!-- Replace with actual image -->
+![Albedo PC Screenshot](https://img.itch.zone/aW1nLzE0NTQ5NTk4LnBuZw==/original/j8PcSt.png) <!-- Replace with actual image -->
 
 ### **AI-Powered Chatbot**
-- **Description**: A conversational AI chatbot built using OpenAI's GPT-4 and integrated into web and mobile platforms.
-- **Technologies**: Python, TensorFlow, React Native
-- **Live Demo**: [Chatbot Demo](https://chatbot.com) *(replace with actual link)*
+- **Description**: Geesi AI, Designed to make studying easier and more interactive.
+- **Technologies**: Next.js, Gemini, React Native
+- **Live Demo**: [Chatbot Demo](https://ai.google.dev/competition/projects/geesi-ai) *(replace with actual link)*
 
-![Chatbot Screenshot](https://via.placeholder.com/800x400) <!-- Replace with actual image -->
+![Chatbot Screenshot](https://youtu.be/LP5Ps2O5n_0) <!-- Replace with actual image -->
 
 ---
 
