@@ -5,86 +5,47 @@
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://apkzacky.github.io/)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zackyjamel@gmail.com)
 
-I'm a **Programmer** and **Software Engineer** specializing in **Mobile, Web, AI, and Video Game Development**. I’m passionate about building scalable systems, creating immersive gaming experiences, and leveraging AI to solve real-world problems. I love contributing to open-source projects and building tools that make a difference.
+---
+
+## 🚀 Builder of Daraj
+
+We are **Daraj** — a platform focused on modern digital infrastructure for East Africa.
+
+My current focus is **DarajPay**, a payment system designed to help businesses and digital products handle payments in a simple and scalable way.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧩 What I Build
 
-### **Mobile Development**
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+I focus on building real-world systems that solve practical problems:
 
-### **Web Development**
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### **AI & Machine Learning**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-### **Game Development**
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)
-
-### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- Digital payment infrastructure
+- Platforms for local markets and services
+- Scalable web and mobile applications
+- AI-powered tools and products
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-### **Goplay**
-- **Description**: The largest sports app in the Somali community.
-
-
-### **Albedo PC**
-- **Description**: A 3D video game available for Mac, Linux, and Windows. ALBEDO is a smart warrior who is carrying out his mission to achieve the white power.
-
-Survive and kill the armed guardians of the warrior, guarding the albedo, using your unique weapons.
-- **Technologies**: Godot4, GDscript, Blender
-- **Get Started**: [Download on itch.io](https://apkzacky.itch.io/albedo-pc)
-
-![Albedo PC Screenshot](https://img.itch.zone/aW1nLzE0NTQ5NTk4LnBuZw==/original/j8PcSt.png) <!-- Replace with actual image -->
-
-### **AI-Powered Chatbot**
-- **Description**: Geesi AI, Designed to make studying easier and more interactive.
-- **Technologies**: Next.js, Gemini, React Native
-- **Live Demo**: [Chatbot Demo](https://ai.google.dev/competition/projects/geesi-a)
-
-![Chatbot Screenshot](https://ai.google.dev/competition/projects/geesi-ai) <!-- Replace with actual image -->
+### Goplay
+Sports platform built for the Somali community.
 
 ---
 
+### Albedo PC
+3D survival game built for Windows, Mac, and Linux.
 
+- Built with Godot + Blender  
+- Focused on immersive gameplay and design  
+- Available on itch.io
 
+---
 
-## UpToDown Products
+### Geesi AI
+AI-powered learning assistant designed to make studying more interactive and accessible.
 
-Here are some of the apps and games I’ve developed and published on **UpToDown**:
-
-### **1. English Somali Dictionary Mobile: (https://english-somali-dictionary.uptodown.com/android)**
-- **Description**: Unlimited somali to english dictionary.
-- **Technologies**: [React Native, Google DB].
-- **Download**: [https://english-somali-dictionary.uptodown.com/android].
-
-### **2. English Somali Dictionary PC: (https://www.uptodown.com/developer/apkzacky-studio)**
-- **Description**: Unlimited somali to english.
-- **Technologies**: [Electron.js, Google DB].
-- **Download**: [https://english-somali-dictionary-pc.uptodown.com/windows].
-
-### **3. OXO - Learn to code: (https://apkpure.com/oxo-learn-to-code/ApkZacky.github.io.OXO)**
-- **Description**: OXO - LEARN TO CODE - LEARN, BUILD & RUN WEBSITE IN YOUR PHONE ALL FOR FREE & OFFLINE.
-- **Technologies**: [React Native].
-- **Download**: [Link to the app/game on UpToDown].
-
+---
 
 ## 📈 GitHub Stats
 
@@ -100,13 +61,12 @@ Here are some of the apps and games I’ve developed and published on **UpToDown
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/zacky-jamel-17a31b239/)
-- 🐦 [Twitter](https://x.com/zackyjamel)
-- 🌐 [Portfolio](https://apkzacky.github.io/)
-- ✉️ [Email](mailto:zackyjamel@gmail.com)
+- LinkedIn: (your link)
+- Twitter/X: (your link)
+- Portfolio: (your link)
 
 ---
 
-⭐️ From [Zacky Jamel](https://github.com/apkzacky)
+⭐ Building digital infrastructure for East Africa — Daraj
