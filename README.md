@@ -7,21 +7,20 @@
 
 ---
 
-## 🚀 Working on Daraj
+## 🚀 About Me
 
-I’m working on **Daraj** — building modern digital infrastructure for East Africa.
+I’m a software builder focused on creating real-world digital products and interactive experiences.
 
-Together, we are building **DarajPay**, a payment system designed to help digital businesses accept, manage, and scale payments in a simple and reliable way.
+I enjoy building systems that solve practical problems and improve how people interact with technology.
 
 ---
 
-## 🧩 What We Are Building
+## 🧩 What I Build
 
-At Daraj, we focus on solving real problems in digital finance:
-
-- Payment infrastructure for online businesses
-- Systems that simplify money flow in digital products
-- Tools that support scalable financial operations in East Africa
+- Web and mobile applications  
+- Interactive digital products  
+- AI-powered tools and systems  
+- Game development projects  
 
 ---
 
@@ -36,7 +35,7 @@ A sports platform built for the Somali community.
 A 3D survival game available on Windows, Mac, and Linux.
 
 - Built with Godot and Blender  
-- Focused on gameplay experience and design  
+- Focused on immersive gameplay and design  
 - Available on itch.io
 
 ---
@@ -68,5 +67,3 @@ An AI-powered learning assistant designed to make studying more interactive and 
 - Email: mailto:zackyjamel@gmail.com  
 
 ---
-
-⭐ Building Daraj — powering the future of digital payments in East Africa
