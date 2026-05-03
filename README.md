@@ -7,43 +7,42 @@
 
 ---
 
-## 🚀 Builder of Daraj
+## 🚀 Working on Daraj
 
-We are **Daraj** — a platform focused on modern digital infrastructure for East Africa.
+I’m working on **Daraj** — building modern digital infrastructure for East Africa.
 
-My current focus is **DarajPay**, a payment system designed to help businesses and digital products handle payments in a simple and scalable way.
+Together, we are building **DarajPay**, a payment system designed to help digital businesses accept, manage, and scale payments in a simple and reliable way.
 
 ---
 
-## 🧩 What I Build
+## 🧩 What We Are Building
 
-I focus on building real-world systems that solve practical problems:
+At Daraj, we focus on solving real problems in digital finance:
 
-- Digital payment infrastructure
-- Platforms for local markets and services
-- Scalable web and mobile applications
-- AI-powered tools and products
+- Payment infrastructure for online businesses
+- Systems that simplify money flow in digital products
+- Tools that support scalable financial operations in East Africa
 
 ---
 
 ## 🚀 Featured Work
 
 ### Goplay
-Sports platform built for the Somali community.
+A sports platform built for the Somali community.
 
 ---
 
 ### Albedo PC
-3D survival game built for Windows, Mac, and Linux.
+A 3D survival game available on Windows, Mac, and Linux.
 
-- Built with Godot + Blender  
-- Focused on immersive gameplay and design  
+- Built with Godot and Blender  
+- Focused on gameplay experience and design  
 - Available on itch.io
 
 ---
 
 ### Geesi AI
-AI-powered learning assistant designed to make studying more interactive and accessible.
+An AI-powered learning assistant designed to make studying more interactive and accessible.
 
 ---
 
@@ -63,10 +62,11 @@ AI-powered learning assistant designed to make studying more interactive and acc
 
 ## 📫 Connect
 
-- LinkedIn: (your link)
-- Twitter/X: (your link)
-- Portfolio: (your link)
+- Twitter/X: https://x.com/zackyjamel  
+- LinkedIn: https://www.linkedin.com/in/zacky-jamel-17a31b239/  
+- Portfolio: https://apkzacky.github.io/  
+- Email: mailto:zackyjamel@gmail.com  
 
 ---
 
-⭐ Building digital infrastructure for East Africa — Daraj
+⭐ Building Daraj — powering the future of digital payments in East Africa
