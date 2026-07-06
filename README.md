@@ -1,55 +1,42 @@
 # Zacky Jamel
 
-**Building systems that scale. Shipping code that matters.**
-
-Founder & Software Architect. I transform complex problems into digital products with high velocity and low technical debt.
+**CEO @ DarajPay | Blockchain Engineer**
 
 ---
 
-### 🧭 Currently
-- Architecting cloud-native solutions at **Nexentra** (stealth)
-- Leading technical strategy for early-stage startups
-- Deep-diving into **Rust** and **Kubernetes** operators
+## About Me
 
-### 📐 Technical Stack
-`TypeScript` `Go` `Rust` `React` `Next.js` `Node.js` `Python` `Postgres` `Redis` `AWS` `K8s` `Terraform`
-
-### ⚡️ Operating Principles
-- **Velocity** over perfection — but never at the cost of fundamentals
-- **Documentation** as a force multiplier
-- **Small teams, big leverage** — automation > process
+Building the future of payments on blockchain infrastructure. Leading DarajPay from vision to execution while staying close to the technical architecture that makes it possible.
 
 ---
 
-### 📌 Featured Projects
+## Current Focus
 
-| Project | Stack | Use case |
-|--------|-------|----------|
-| **[Portfolio](https://apkzacky.github.io/)** | HTML/CSS/JS | Digital presence & case studies |
-| **Nexentra Core** (private) | Go, Temporal, Postgres | Distributed workflow engine |
-| **Startup Boilerplate** | Next.js, Tailwind, Prisma | 48h → production-ready MVP |
+- **CEO** @ [DarajPay](https://darajpay.com) — Financial inclusion through blockchain
+- **Blockchain Architecture** — Smart contracts, protocols, and scalable Web3 infrastructure
+- **Team Building** — Growing engineering teams that ship with velocity
 
 ---
 
-### 🔗 Build with me
+## Technical Stack
 
-- **X (formerly Twitter)** – [@zackyjamel](https://x.com/zackyjamel)  
-  *Threads on systems design + startup engineering*
-
-- **LinkedIn** – [in/zacky-jamel](https://www.linkedin.com/in/zacky-jamel-17a31b239/)  
-  *Network & technical leadership*
-
-- **Portfolio** – [apkzacky.github.io](https://apkzacky.github.io/)  
-  *Case studies & live work*
-
-- **Email** – [zackyjamel@gmail.com](mailto:zackyjamel@gmail.com)  
-  *Direct line for partnerships / technical diligence*
+`Solidity` `Rust` `Go` `TypeScript` `React` `Node.js` `Postgres` `AWS` `Kubernetes` `Ethereum` `Polygon`
 
 ---
 
-### 📈 Impact (last 90 days)
-```text
-🎯 Code reviews: 142  
-🚀 Deployments: 38  
-📚 Docs written: 23 pages  
-💡 Hours saved via automation: ~120
+## Leadership Principles
+
+- Ship fast, learn faster
+- Automate everything that can be automated
+- Document decisions, not just code
+- Build teams that outgrow you
+
+---
+
+## Connect
+
+- **X** – [@zackyjamel](https://x.com/zackyjamel)
+- **LinkedIn** – [in/zackyjamel](https://www.linkedin.com/in/zackyjamel/)
+- **Email** – [zackyjamel@gmail.com](mailto:zackyjamel@gmail.com)
+- **DarajPay** – [darajpay.com](https://darajpay.com)
+
