@@ -1,6 +1,6 @@
 # Zacky Jamel
 
-**CEO @ Altractor & Darajay | Blockchain Engineer**
+**CEO @ Altravector & Darajay | Blockchain Engineer**
 
 ---
 
