@@ -1,42 +1,26 @@
 # Zacky Jamel
 
-**CEO @ Altravector & Darajay | Blockchain Engineer**
+**AI Researcher @ Daraj**
 
 ---
 
 ## About Me
 
-Building the future of payments on blockchain infrastructure. Leading DarajPay from vision to execution while staying close to the technical architecture that makes it possible.
+Researching and building language models, with a focus on reasoning, tool use, and practical AI systems.
 
----
+## Research & Development
 
-## Current Focus
+- **Language Models** — Training and developing compact language models.
+- **AI Agents** — Tool calling, reasoning, and autonomous task execution.
+- **Model Engineering** — Model optimization, evaluation, and deployment.
 
-- **CEO** @ [DarajPay](https://darajpay.com) — Financial inclusion through blockchain
-- **Blockchain Architecture** — Smart contracts, protocols, and scalable Web3 infrastructure
-- **Team Building** — Growing engineering teams that ship with velocity
+## Technologies
 
----
-
-## Technical Stack
-
-`Solidity` `Rust` `Go` `TypeScript` `React` `Node.js` `Postgres` `AWS` `Kubernetes` `Ethereum` `Polygon`
-
----
-
-## Leadership Principles
-
-- Ship fast, learn faster
-- Automate everything that can be automated
-- Document decisions, not just code
-- Build teams that outgrow you
-
----
+`Python` `PyTorch` `Transformers` `Go` `TypeScript` `Rust`
 
 ## Connect
 
 - **X** – [@zackyjamel](https://x.com/zackyjamel)
 - **LinkedIn** – [in/zackyjamel](https://www.linkedin.com/in/zackyjamel/)
-- **Email** – [zackyjamel@gmail.com](mailto:zackyjamel@gmail.com)
-- **DarajPay** – [darajpay.com](https://darajpay.com)
-
+- **Email** – [zacky@daraj.cc](mailto:zacky@daraj.cc)
+- **Daraj** – [daraj.cc](https://daraj.cc)
